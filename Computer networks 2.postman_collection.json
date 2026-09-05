@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "06df6f32-2480-4a03-9619-41093599f627",
+		"name": "Computer networks 2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44293334",
+		"_collection_link": "https://luisbarajas-1288551.postman.co/workspace/Luis-Barajas's-Workspace~9ce8e076-8554-45bc-8a27-af23d54f8021/collection/44293334-06df6f32-2480-4a03-9619-41093599f627?action=share&source=collection_link&creator=44293334"
+	},
+	"item": [
+		{
+			"name": "flask server",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
